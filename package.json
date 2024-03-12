@@ -1,0 +1,15 @@
+{
+  "name": "personal-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./CSS/tailwind.css -o ./CSS/tailwind-final.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
