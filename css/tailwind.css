@@ -176,3 +176,17 @@ html {
   backdrop-filter: blur(3px);
   z-index: 5;
 }
+
+.live {
+  padding: 4px 12px;
+  border-radius: 15px;
+  background-color: #a94f06;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.live:hover {
+  background-color: #542305;
+  color: white;
+}
